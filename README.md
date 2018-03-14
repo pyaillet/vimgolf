@@ -1,3 +1,5 @@
+[![](https://dockerbuildbadges.quelltext.eu/status.svg?organization=pyaillet&repository=vimgolf)](https://hub.docker.com/r/pyaillet/vimgolf/builds/)  
+
 # Image for running vimgolf in a container
 
 ## First setup
